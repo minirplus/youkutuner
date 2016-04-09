@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+
+  "name": "Youku Tuner",
+  "description": "This extension Auto replace player for the current page",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "makefg.png",
+    "default_title": "Click here to Mannul Excute"
+  },
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+  "content_scripts": [ {
+    "js": [ "content_script.js" ],
+    "matches": [ 
+	  "http://v.youku.com/*"
+	]
+  } ],
+  "permissions": [
+    "tabs", 
+    "activeTab"
+  ]
+}
