@@ -1,4 +1,5 @@
 # youkutuner
+Just a really simple tools for youku.com
 
 ## How to use
 There are a few steps before you can use youkutuner:
