@@ -9,4 +9,4 @@ There are a few steps before you can use youkutuner:
 * All Done!
 
 ## Thanks
-API:[rptec/rpv](https://github.com/rptec/rpv) 
+[rptec/rpv](https://github.com/rptec/rpv) 
