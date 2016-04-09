@@ -1,4 +1,4 @@
-# youkutuner
+# YoukuTuner
 Just a really simple tools for youku.com
 
 ## How to use
