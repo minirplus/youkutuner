@@ -1,7 +1,7 @@
 # youkutuner
 
 ## How to use
-There are a few different ways you can install pyechonest:
+There are a few step before you can use youkutuner:
 
 * Create a folder.
 * Put all the files to the folder.
