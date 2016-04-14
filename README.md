@@ -7,6 +7,7 @@ There are a few steps before you can use youkutuner:
 * Create a folder.
 * Put all the files to the folder.
 * Load unpacked extension in chrome chrome://extensions/ and select the folder created above
+* When on youku player page, click the buttom of extension.
 * All Done!
 
 ## Thanks
