@@ -3,7 +3,7 @@
 
   "name": "Youku Tuner",
   "description": "This extension Auto replace player for the current page",
-  "version": "1.0",
+  "version": "1.1",
 
   "browser_action": {
     "default_icon": "makefg.png",
@@ -13,12 +13,6 @@
     "scripts": ["background.js"],
     "persistent": false
   },
-  "content_scripts": [ {
-    "js": [ "content_script.js" ],
-    "matches": [ 
-	  "http://v.youku.com/*"
-	]
-  } ],
   "permissions": [
     "tabs", 
     "activeTab"
